@@ -7,4 +7,4 @@ def extract_text_from_pdf(pdf_path):
         print(f"\n--- Page {page_num} ---\n{text}")
 
 # Test with a small PDF (1-2 pages)
-extract_text_from_pdf("test.pdf")
+extract_text_from_pdf("PrideandPrejudice.pdf")
